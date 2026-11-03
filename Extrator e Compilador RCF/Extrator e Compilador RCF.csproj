@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>Extrator_e_Compilador_RCF</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Product>Descompilador e Compilador de RCF/IMG/P3D</Product>
+    <AssemblyTitle>Descompilador e Compilador de RCF/IMG/P3D</AssemblyTitle>
+    <ApplicationIcon>Logo\logo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Logo\logo.ico" LogicalName="Logo.logo.ico" />
+    <EmbeddedResource Include="Logo\logo.png" LogicalName="Logo.logo.png" />
+  </ItemGroup>
+
+</Project>

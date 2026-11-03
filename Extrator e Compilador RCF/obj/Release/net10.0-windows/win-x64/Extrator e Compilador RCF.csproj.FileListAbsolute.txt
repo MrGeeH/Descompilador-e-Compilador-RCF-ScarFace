@@ -1,0 +1,15 @@
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\bin\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.exe
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\bin\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.deps.json
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\bin\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.runtimeconfig.json
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\bin\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.dll
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\Extrator_e_Compilador_RCF.ConfiguracoesForm.resources
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\Extrator_e_Compilador_RCF.MainForm.resources
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.csproj.GenerateResource.cache
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.AssemblyInfoInputs.cache
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.AssemblyInfo.cs
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.csproj.CoreCompileInputs.cache
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.dll
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\refint\Extrator e Compilador RCF.dll
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\Extrator e Compilador RCF.genruntimeconfig.cache
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Release\net10.0-windows\win-x64\ref\Extrator e Compilador RCF.dll

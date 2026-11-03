@@ -1,0 +1,23 @@
+C:\Users\geraldo.cezar\AppData\Local\Temp\claude\C--Users-geraldo-cezar--claude-spares-spare-Cr0bqy\1ebaa7f0-c6e7-4e6c-b0f2-06f64f501d0f\scratchpad\uibin\Extrator e Compilador RCF.exe
+C:\Users\geraldo.cezar\AppData\Local\Temp\claude\C--Users-geraldo-cezar--claude-spares-spare-Cr0bqy\1ebaa7f0-c6e7-4e6c-b0f2-06f64f501d0f\scratchpad\uibin\Extrator e Compilador RCF.deps.json
+C:\Users\geraldo.cezar\AppData\Local\Temp\claude\C--Users-geraldo-cezar--claude-spares-spare-Cr0bqy\1ebaa7f0-c6e7-4e6c-b0f2-06f64f501d0f\scratchpad\uibin\Extrator e Compilador RCF.runtimeconfig.json
+C:\Users\geraldo.cezar\AppData\Local\Temp\claude\C--Users-geraldo-cezar--claude-spares-spare-Cr0bqy\1ebaa7f0-c6e7-4e6c-b0f2-06f64f501d0f\scratchpad\uibin\Extrator e Compilador RCF.dll
+C:\Users\geraldo.cezar\AppData\Local\Temp\claude\C--Users-geraldo-cezar--claude-spares-spare-Cr0bqy\1ebaa7f0-c6e7-4e6c-b0f2-06f64f501d0f\scratchpad\uibin\Extrator e Compilador RCF.pdb
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\bin\Debug\net10.0-windows\Extrator e Compilador RCF.exe
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\bin\Debug\net10.0-windows\Extrator e Compilador RCF.deps.json
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\bin\Debug\net10.0-windows\Extrator e Compilador RCF.runtimeconfig.json
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\bin\Debug\net10.0-windows\Extrator e Compilador RCF.dll
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\bin\Debug\net10.0-windows\Extrator e Compilador RCF.pdb
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator_e_Compilador_RCF.ConfiguracoesForm.resources
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator_e_Compilador_RCF.MainForm.resources
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator e Compilador RCF.csproj.GenerateResource.cache
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator e Compilador RCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator e Compilador RCF.AssemblyInfoInputs.cache
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator e Compilador RCF.AssemblyInfo.cs
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator e Compilador RCF.csproj.CoreCompileInputs.cache
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator e Compilador RCF.dll
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\refint\Extrator e Compilador RCF.dll
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator e Compilador RCF.pdb
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator e Compilador RCF.genruntimeconfig.cache
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\ref\Extrator e Compilador RCF.dll
+C:\Users\geraldo.cezar\source\repos\Extrator e Compilador RCF\Extrator e Compilador RCF\obj\Debug\net10.0-windows\Extrator.A3EE15FD.Up2Date
